@@ -8,9 +8,9 @@ export class Main extends Component {
 			<>
 				<div className="title">Hydrate</div>
 				<p>A simple tool to calculate water intake</p>
-				<Calculator />
+				<Calculator /><hr />
 				<p className="signs">
-					Drinking water Helps:
+					Drinking water Helps!
 					<ul>
 						<li>It lubricates the joints</li>
 						<li>It forms saliva and mucus</li>
