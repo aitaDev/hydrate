@@ -1,2 +1,2 @@
-# Getting Started with Create React App
+# Hydration Calculator
 A simple hydration calculator made with react
